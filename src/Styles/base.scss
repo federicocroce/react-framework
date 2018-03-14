@@ -1,0 +1,13 @@
+$primary-color: #01579b;
+$primary-color-light: #4f83cc;
+$primary-color-dark: #002f6c;
+$primary-color-text: #ffffff;
+$secondary-color: #263238;
+$secondary-color-light: #4f5b62;
+$secondary-color-dark: #000a12;
+$secondary-color-text: #ffffff;
+
+.table {
+    display: table;
+    > * {display: table-cell;}
+}
